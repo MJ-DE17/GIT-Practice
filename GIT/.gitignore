@@ -1,0 +1,4 @@
+!.env.example
+*.log
+.env
+build/
