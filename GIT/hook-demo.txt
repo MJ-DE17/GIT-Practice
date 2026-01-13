@@ -1,0 +1,3 @@
+Prevent commit if file contains the word TODO
+
+TODO: fix this
