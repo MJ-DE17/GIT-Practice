@@ -1,1 +1,3 @@
 Pull request 
+Removed the sample from pre commit
+

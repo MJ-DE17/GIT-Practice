@@ -1,0 +1,6 @@
+!.env.example
+*.log
+.env
+build/
+
+ git remote set-url origin github-work:MJ-DE17/GIT-2.git
